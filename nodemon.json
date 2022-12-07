@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DATABASE_URL":"mongodb+srv: //iamsns:Iamsns355%40@cluster0.5ihkf.mongodb.net/RkLibraryDB?retryWrites=true&w=majority",
+        "SALT_ROUNDS":10,
+        "TOKEN_SECRET":"fdhadsfsdf46s5f765dtusdyr5376r7642424@#^#$%CEDR%FETF#$D#%T$%^#$%RDFDWD$RERTRE$REDRDWREDRTFE$%ERDf"
+    }
+}
